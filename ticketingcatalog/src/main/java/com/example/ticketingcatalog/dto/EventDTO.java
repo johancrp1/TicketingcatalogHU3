@@ -18,4 +18,5 @@ public class EventDTO {
 
     private String date; // Fecha del evento (puede ser String por ahora)
     private String venueId; // ID del venue asociado
+
 }
